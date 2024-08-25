@@ -28,7 +28,7 @@ cd your_repository_name
 
 
 ### Install Dependencies
-Make sure you have Python installed. Then, install the required Python packages:
+###Make sure you have Python installed. Then, install the required Python packages:
 
 pip install -r requirements.txt
 ### set  up your API Jey in .env file
